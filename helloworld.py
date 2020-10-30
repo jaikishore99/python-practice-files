@@ -1,2 +1,9 @@
-int=input("hello world")
-print("int")
+# hello world syntax
+
+print("hello world")
+
+print("hello,world")
+
+print("hello,world!")
+
+print("hello,"'world!')
